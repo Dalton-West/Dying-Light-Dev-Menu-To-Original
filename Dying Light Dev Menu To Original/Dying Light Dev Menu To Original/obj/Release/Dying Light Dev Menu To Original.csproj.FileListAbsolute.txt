@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Dying Light Dev Menu To Original\Dying Light Dev Menu To Original\bin\Release\Dying Light Dev Menu To Original.exe.config
+d:\documents\visual studio 2015\Projects\Dying Light Dev Menu To Original\Dying Light Dev Menu To Original\bin\Release\Dying Light Dev Menu To Original.exe
+d:\documents\visual studio 2015\Projects\Dying Light Dev Menu To Original\Dying Light Dev Menu To Original\bin\Release\Dying Light Dev Menu To Original.pdb
+d:\documents\visual studio 2015\Projects\Dying Light Dev Menu To Original\Dying Light Dev Menu To Original\obj\Release\Dying_Light_Dev_Menu_To_Original.Form1.resources
+d:\documents\visual studio 2015\Projects\Dying Light Dev Menu To Original\Dying Light Dev Menu To Original\obj\Release\Dying_Light_Dev_Menu_To_Original.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Dying Light Dev Menu To Original\Dying Light Dev Menu To Original\obj\Release\Dying Light Dev Menu To Original.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Dying Light Dev Menu To Original\Dying Light Dev Menu To Original\obj\Release\Dying Light Dev Menu To Original.exe
+d:\documents\visual studio 2015\Projects\Dying Light Dev Menu To Original\Dying Light Dev Menu To Original\obj\Release\Dying Light Dev Menu To Original.pdb
+D:\Documents\Visual Studio 2015\Projects\Dying Light Dev Menu To Original\Dying Light Dev Menu To Original\obj\Release\Dying Light Dev Menu To Original.csprojResolveAssemblyReference.cache
